@@ -1,2 +1,4 @@
 extras/ 
 s2gp/
+s2gp-venv
+.env
